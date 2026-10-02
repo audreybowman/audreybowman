@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Audrey 👋
 
-<!--
-**audreybowman/audreybowman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a MPH candidate in Health Management & Policy at San Diego State University
+with interests in AI, public health research, health technology, and
+human-centered data science. 
 
-Here are some ideas to get you started:
+## Research Interests 
+- Artificial intelligence 
+- Population health
+- Patient wellbeing
+- Health technology
+- Responsible and Ethical AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working With
+- Python
+- Excel
+- SPSS
+- Tableau
+- Survey data 
+- Quantitative & qualitative research methods
+
+## Currently Learning 
+- Python for public health data analysis
+- Data structures
+- Statistical analysis and visualization
